@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Diagnostics;
+
 
 class Program
 {
-    /*
     static void Main(string[] args)
     {
         try
@@ -19,14 +20,15 @@ class Program
 
     static void FailProcess()
     {
-        NullException(5, 0);
-    }
+        //1
+        Environment.Exit(-1);
 
-    static int NullException(int a, int b)
-    {
-        int Exception = a / b;
-
-        return Exception;
+        //2
+        //Process.GetCurrentProcess().Kill();
+        
+        //3
+        //Environment.FailFast("Fail!");
+        
     }
-    */
+    
 }
