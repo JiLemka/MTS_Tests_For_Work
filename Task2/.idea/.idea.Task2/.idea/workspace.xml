@@ -4,7 +4,10 @@
     <projectFile>Task2/Task2.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be85461-a9e8-41b1-a978-4bcd47fccc72" name="Changes" comment="" />
+    <list default="true" id="6be85461-a9e8-41b1-a978-4bcd47fccc72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -56,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665851608580</updated>
       <workItem from="1665851610282" duration="16000" />
+      <workItem from="1666035762665" duration="279000" />
     </task>
     <servers />
   </component>
