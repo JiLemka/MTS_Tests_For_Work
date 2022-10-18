@@ -4,11 +4,30 @@
     <projectFile>Task5/Task5.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d96a426-3fac-40a6-9edd-9ade7c41605f" name="Changes" comment="" />
+    <list default="true" id="8d96a426-3fac-40a6-9edd-9ade7c41605f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Task2/.idea/.idea.Task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/.idea/.idea.Task2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task5/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Task5/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/56996bd5b7b025988834f7db72d610de6637f12f9a6dc6f25950f7f158ef3fc4/ConsolePal.Windows.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/874bbdf2aa6d53d0b6c8136eb34dfdba6545f3b183035c4b2ce2aa1845941d/TextWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/bf408839e35535896e3625c8578c2bfb7bf56ef7ab2c4549ae59c3a19db9ae/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/ece19d042fcb2589c621adf9a12382211fd2ae025d72db7fdea91dcb1d897/StringWriter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f4708639776589f5ac2739f6fcbfc67343b1f9dac51cc1dbfdb003eef77cc1c/Monitor.CoreCLR.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -19,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Task5" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -56,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665851652180</updated>
       <workItem from="1665851656389" duration="9000" />
+      <workItem from="1666117265237" duration="4053000" />
     </task>
     <servers />
   </component>
