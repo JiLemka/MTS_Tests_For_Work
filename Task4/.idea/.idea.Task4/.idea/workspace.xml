@@ -4,13 +4,7 @@
     <projectFile>Task4/Task4.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7438394-76fe-4145-8c61-3c7464a5fad3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Task3/.idea/.idea.Task3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/.idea/.idea.Task3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task3/Task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Task3/Task3/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task4/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task4/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task4/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task5/.idea/.idea.Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/.idea.Task5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7438394-76fe-4145-8c61-3c7464a5fad3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665851639731</updated>
       <workItem from="1665851643910" duration="8000" />
-      <workItem from="1666187151488" duration="9368000" />
+      <workItem from="1666187151488" duration="9640000" />
     </task>
     <servers />
   </component>
