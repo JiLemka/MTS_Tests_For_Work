@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d96a426-3fac-40a6-9edd-9ade7c41605f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Task2/.idea/.idea.Task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/.idea/.idea.Task2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/bin/Debug/net6.0/Task2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Task2/Task2/obj/Debug/net6.0/Task2.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task5/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task5/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task5/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Task5/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665851652180</updated>
       <workItem from="1665851656389" duration="9000" />
-      <workItem from="1666117265237" duration="4053000" />
+      <workItem from="1666117265237" duration="4684000" />
     </task>
     <servers />
   </component>

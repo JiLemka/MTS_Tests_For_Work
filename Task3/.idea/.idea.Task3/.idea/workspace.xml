@@ -4,7 +4,11 @@
     <projectFile>Task3/Task3.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="659a365c-eccd-4a43-afb3-2df141582bf3" name="Changes" comment="" />
+    <list default="true" id="659a365c-eccd-4a43-afb3-2df141582bf3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Task3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task3/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task3/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Task5/.idea/.idea.Task5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Task5/.idea/.idea.Task5/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,14 +23,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Task3" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -56,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665851626056</updated>
       <workItem from="1665851630495" duration="9000" />
+      <workItem from="1666183902387" duration="3218000" />
     </task>
     <servers />
   </component>
